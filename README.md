@@ -8,11 +8,7 @@ Paper: Kerbl B, Kopanas G, Leimkühler T, et al. 3d gaussian splatting for real-
 Original project: https://github.com/graphdeco-inria/gaussian-splatting?tab=readme-ov-file
 
 ## This warehouse
-This warehouse disassembles the ROS packages of the original project into two parts: core functions and simulation.
-
-Core: Path planning, trajectory planning and vehicle control.
-
-Full: Full environment.
+This warehouse only includes the sections of path planning, trajectory planning and unmanned vehicle control.
 
 ## Install and run
 Refer to the original project: https://www.cmu-exploration.com/
